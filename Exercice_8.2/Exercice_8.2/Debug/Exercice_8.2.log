@@ -1,0 +1,9 @@
+﻿  main.cpp
+main.obj : error LNK2019: symbole externe non résolu "public: virtual bool __thiscall Entity::IsAlive(void)const " (?IsAlive@Entity@@UBE_NXZ) référencé dans la fonction _main
+main.obj : error LNK2019: symbole externe non résolu "public: void __thiscall Entity::Attack(class Entity &)" (?Attack@Entity@@QAEXAAV1@@Z) référencé dans la fonction _main
+main.obj : error LNK2001: symbole externe non résolu "public: virtual void __thiscall Entity::Print(void)const " (?Print@Entity@@UBEXXZ)
+main.obj : error LNK2019: symbole externe non résolu "public: __thiscall Pig::Pig(int,int)" (??0Pig@@QAE@HH@Z) référencé dans la fonction _main
+main.obj : error LNK2001: symbole externe non résolu "public: virtual void __thiscall Pig::Print(void)const " (?Print@Pig@@UBEXXZ)
+main.obj : error LNK2019: symbole externe non résolu "public: __thiscall Dragon::Dragon(int,int)" (??0Dragon@@QAE@HH@Z) référencé dans la fonction _main
+main.obj : error LNK2019: symbole externe non résolu "public: virtual void __thiscall Dragon::Print(void)const " (?Print@Dragon@@UBEXXZ) référencé dans la fonction _main
+C:\Users\Vincent\Documents\SAE\SAE_Travaux_ecole\Serie_8_Folders\Exercice_8.2\Exercice_8.2\Exercice_8.2\Debug\Exercice_8.2.exe : fatal error LNK1120: 7 externes non résolus
